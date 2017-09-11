@@ -56,6 +56,7 @@ Description:
 		2) 10 minutes of hands-on / interactive programming
 
 Schedule:
+
 	Week 0	Introduction
 	Week 1	Vectors
 	Week 2	Forces
