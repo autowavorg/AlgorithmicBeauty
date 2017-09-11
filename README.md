@@ -23,15 +23,25 @@ Contact
 
 Description
 	This course is a practical introduction to the computer programming for graphics. 
+	
 	The curriculum is designed for absolute beginners or people with no experience with coding.
+	
 	The language being taught is p5.js, which is a JavaScript client-side library based on Processing.
+	
 	The class is divided into 16 parts, with 0 - 11 being lectures.
+	
 	These lectures will be interactive, done through Google Classroom.
-	The final 4 weeks are reserved for final projects, where students will submit a project of 	their choice.
+	
+	The final 4 weeks are reserved for final projects, where students will submit a project of their choice.
+	
 	All classroom materials will be open sourced on GitHub.
+	
 	Students are expected to learn basic Git to save and modify their projects.
+	
 	Each session is approximately 30 minutes.
+	
 	Each session is divided into two parts:
+
 		1) 20 minutes of lecturing
 		2) 10 minutes of hands-on / interactive programming
 
