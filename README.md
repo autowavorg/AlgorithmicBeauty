@@ -1,6 +1,10 @@
 # AlgorithmicBeauty
 A free open-source online course in p5.js that takes place over 16 weeks.
 
+Registration: 
+
+	https://goo.gl/forms/NckQjQt5t0vdsbOg1
+	
 Required Text:
 
 	“The Nature of Code” by Daniel Shiffman
