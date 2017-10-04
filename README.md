@@ -37,7 +37,7 @@ Contact:
 
 Description:
 
-	This course is a practical introduction to the computer programming for graphics. 
+	This course is a practical introduction to computer programming for graphics. 
 	
 	The curriculum is designed for absolute beginners or people with no experience with coding.
 	
